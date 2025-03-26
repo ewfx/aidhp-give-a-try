@@ -1,0 +1,501 @@
+Age,Gender,Location,Interests,Preferences,Income_per_Year,Education,Occupation
+24,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,186892,Master's,Entrepreneur
+60,Male,Boston,Finance,Stock Market & Investments,161123,High School,Real Estate Agent
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+65,Female,New York,Gaming,PC & Console Gaming,32553,PhD,Real Estate Agent
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+36,Male,Houston,Health & Fitness,Organic Food & Gym Memberships,85946,Master's,Banker
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+26,Non-Binary,Houston,Music,Concerts & Streaming Services,135565,Master's,Doctor
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+50,Non-Binary,Chicago,Real Estate,Property Investment & Rentals,99768,Master's,Consultant
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+25,Male,Miami,Real Estate,Property Investment & Rentals,129623,Bachelor's,Banker
+65,Male,Los Angeles,Gaming,PC & Console Gaming,194909,PhD,Software Engineer
+38,Non-Binary,Chicago,Finance,Stock Market & Investments,129216,Bachelor's,Real Estate Agent
+23,Male,Chicago,Real Estate,Property Investment & Rentals,110702,PhD,Entrepreneur
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+20,Female,Los Angeles,Education,Online Courses & Books,62683,Master's,Teacher
+60,Non-Binary,New York,Gaming,PC & Console Gaming,177617,Master's,Real Estate Agent
+51,Non-Binary,Seattle,Finance,Stock Market & Investments,117346,High School,Teacher
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+43,Male,Chicago,Education,Online Courses & Books,187392,High School,Teacher
+55,Non-Binary,San Francisco,Education,Online Courses & Books,191014,High School,Consultant
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+58,Male,Boston,Technology,Gadgets & AI,40261,High School,Real Estate Agent
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+64,Female,San Francisco,Finance,Stock Market & Investments,197894,High School,Entrepreneur
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+29,Non-Binary,Houston,Real Estate,Property Investment & Rentals,68736,Master's,Designer
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+32,Non-Binary,San Francisco,Technology,Gadgets & AI,157798,PhD,Designer
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+43,Male,Boston,Music,Concerts & Streaming Services,189724,High School,Banker
+30,Female,Los Angeles,Travel,Luxury Hotels & Adventure Trips,165801,Master's,Teacher
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+56,Female,Houston,Gaming,PC & Console Gaming,110000,Bachelor's,Teacher
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+52,Male,Miami,Music,Concerts & Streaming Services,35794,Bachelor's,Doctor
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+61,Female,Seattle,Real Estate,Property Investment & Rentals,196796,PhD,Real Estate Agent
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+33,Non-Binary,San Francisco,Health & Fitness,Organic Food & Gym Memberships,116369,PhD,Designer
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+42,Male,Boston,Education,Online Courses & Books,67384,Master's,Teacher
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+38,Non-Binary,Chicago,Finance,Stock Market & Investments,129216,Bachelor's,Real Estate Agent
+42,Female,New York,Real Estate,Property Investment & Rentals,174856,PhD,Software Engineer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+26,Non-Binary,Houston,Music,Concerts & Streaming Services,135565,Master's,Doctor
+61,Female,Houston,Finance,Stock Market & Investments,130783,PhD,Entrepreneur
+58,Male,Boston,Technology,Gadgets & AI,40261,High School,Real Estate Agent
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+33,Non-Binary,San Francisco,Health & Fitness,Organic Food & Gym Memberships,116369,PhD,Designer
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+55,Non-Binary,San Francisco,Education,Online Courses & Books,191014,High School,Consultant
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+62,Female,San Francisco,Health & Fitness,Organic Food & Gym Memberships,61994,High School,Designer
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+42,Female,Chicago,Finance,Stock Market & Investments,130348,PhD,Entrepreneur
+39,Non-Binary,Houston,Education,Online Courses & Books,96251,Bachelor's,Consultant
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+23,Male,Chicago,Real Estate,Property Investment & Rentals,110702,PhD,Entrepreneur
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+50,Non-Binary,Miami,Finance,Stock Market & Investments,105666,PhD,Software Engineer
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+23,Male,Chicago,Real Estate,Property Investment & Rentals,110702,PhD,Entrepreneur
+29,Non-Binary,Houston,Real Estate,Property Investment & Rentals,68736,Master's,Designer
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+65,Female,New York,Gaming,PC & Console Gaming,32553,PhD,Real Estate Agent
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+38,Non-Binary,Chicago,Finance,Stock Market & Investments,129216,Bachelor's,Real Estate Agent
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+58,Male,Boston,Technology,Gadgets & AI,40261,High School,Real Estate Agent
+60,Male,Seattle,Technology,Gadgets & AI,117655,Master's,Consultant
+56,Female,Houston,Music,Concerts & Streaming Services,170239,High School,Designer
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+55,Non-Binary,San Francisco,Education,Online Courses & Books,191014,High School,Consultant
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+43,Male,Chicago,Education,Online Courses & Books,187392,High School,Teacher
+25,Male,Miami,Real Estate,Property Investment & Rentals,129623,Bachelor's,Banker
+61,Non-Binary,Miami,Real Estate,Property Investment & Rentals,162545,High School,Doctor
+36,Male,Houston,Health & Fitness,Organic Food & Gym Memberships,85946,Master's,Banker
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+61,Female,Houston,Finance,Stock Market & Investments,130783,PhD,Entrepreneur
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+51,Non-Binary,Seattle,Finance,Stock Market & Investments,117346,High School,Teacher
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+60,Non-Binary,New York,Gaming,PC & Console Gaming,177617,Master's,Real Estate Agent
+55,Female,Boston,Finance,Stock Market & Investments,193226,Master's,Entrepreneur
+33,Non-Binary,San Francisco,Health & Fitness,Organic Food & Gym Memberships,116369,PhD,Designer
+43,Male,Chicago,Education,Online Courses & Books,187392,High School,Teacher
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+64,Female,Houston,Health & Fitness,Organic Food & Gym Memberships,70499,PhD,Real Estate Agent
+64,Female,San Francisco,Finance,Stock Market & Investments,197894,High School,Entrepreneur
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+61,Female,Houston,Finance,Stock Market & Investments,130783,PhD,Entrepreneur
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+38,Non-Binary,Chicago,Finance,Stock Market & Investments,129216,Bachelor's,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+65,Female,Miami,Real Estate,Property Investment & Rentals,129203,Bachelor's,Designer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+55,Female,Boston,Finance,Stock Market & Investments,193226,Master's,Entrepreneur
+26,Non-Binary,Houston,Music,Concerts & Streaming Services,135565,Master's,Doctor
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+65,Female,Miami,Real Estate,Property Investment & Rentals,129203,Bachelor's,Designer
+29,Non-Binary,Houston,Real Estate,Property Investment & Rentals,68736,Master's,Designer
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+64,Female,Houston,Health & Fitness,Organic Food & Gym Memberships,70499,PhD,Real Estate Agent
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+65,Male,Los Angeles,Gaming,PC & Console Gaming,194909,PhD,Software Engineer
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+60,Non-Binary,Chicago,Gaming,PC & Console Gaming,30239,Master's,Designer
+42,Male,Boston,Education,Online Courses & Books,67384,Master's,Teacher
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+43,Male,Boston,Music,Concerts & Streaming Services,189724,High School,Banker
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+58,Male,Boston,Technology,Gadgets & AI,40261,High School,Real Estate Agent
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+49,Male,Chicago,Gaming,PC & Console Gaming,172944,High School,Entrepreneur
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+62,Female,San Francisco,Health & Fitness,Organic Food & Gym Memberships,61994,High School,Designer
+45,Non-Binary,Boston,Travel,Luxury Hotels & Adventure Trips,47082,Bachelor's,Doctor
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+39,Non-Binary,Houston,Education,Online Courses & Books,96251,Bachelor's,Consultant
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+60,Female,Miami,Education,Online Courses & Books,43923,PhD,Consultant
+44,Male,Los Angeles,Gaming,PC & Console Gaming,146853,High School,Real Estate Agent
+58,Female,New York,Finance,Stock Market & Investments,165159,High School,Banker
+62,Female,New York,Finance,Stock Market & Investments,89923,PhD,Software Engineer
+29,Non-Binary,Houston,Real Estate,Property Investment & Rentals,68736,Master's,Designer
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+58,Female,New York,Finance,Stock Market & Investments,165159,High School,Banker
+25,Male,Miami,Real Estate,Property Investment & Rentals,129623,Bachelor's,Banker
+64,Female,Houston,Health & Fitness,Organic Food & Gym Memberships,70499,PhD,Real Estate Agent
+56,Female,Houston,Music,Concerts & Streaming Services,170239,High School,Designer
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+42,Female,New York,Real Estate,Property Investment & Rentals,174856,PhD,Software Engineer
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+43,Male,Boston,Music,Concerts & Streaming Services,189724,High School,Banker
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+36,Female,Los Angeles,Travel,Luxury Hotels & Adventure Trips,189555,Master's,Teacher
+54,Female,Boston,Travel,Luxury Hotels & Adventure Trips,160039,Master's,Consultant
+19,Non-Binary,Seattle,Real Estate,Property Investment & Rentals,132247,PhD,Consultant
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+56,Female,Houston,Gaming,PC & Console Gaming,110000,Bachelor's,Teacher
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+45,Male,Seattle,Gaming,PC & Console Gaming,164110,Bachelor's,Teacher
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+33,Non-Binary,Los Angeles,Gaming,PC & Console Gaming,144213,High School,Software Engineer
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+44,Male,Los Angeles,Gaming,PC & Console Gaming,146853,High School,Real Estate Agent
+23,Male,Chicago,Real Estate,Property Investment & Rentals,110702,PhD,Entrepreneur
+60,Non-Binary,New York,Gaming,PC & Console Gaming,177617,Master's,Real Estate Agent
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+23,Male,Chicago,Real Estate,Property Investment & Rentals,110702,PhD,Entrepreneur
+42,Male,Boston,Education,Online Courses & Books,67384,Master's,Teacher
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+51,Non-Binary,Seattle,Finance,Stock Market & Investments,117346,High School,Teacher
+25,Male,Miami,Real Estate,Property Investment & Rentals,129623,Bachelor's,Banker
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+44,Male,Los Angeles,Gaming,PC & Console Gaming,146853,High School,Real Estate Agent
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+36,Non-Binary,Los Angeles,Gaming,PC & Console Gaming,107849,Bachelor's,Real Estate Agent
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+41,Male,New York,Finance,Stock Market & Investments,116750,Bachelor's,Designer
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+36,Non-Binary,Los Angeles,Gaming,PC & Console Gaming,107849,Bachelor's,Real Estate Agent
+24,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,186892,Master's,Entrepreneur
+45,Non-Binary,Boston,Travel,Luxury Hotels & Adventure Trips,47082,Bachelor's,Doctor
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+60,Female,Miami,Education,Online Courses & Books,43923,PhD,Consultant
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+44,Male,Los Angeles,Gaming,PC & Console Gaming,146853,High School,Real Estate Agent
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+60,Female,Miami,Education,Online Courses & Books,43923,PhD,Consultant
+50,Non-Binary,Chicago,Real Estate,Property Investment & Rentals,99768,Master's,Consultant
+60,Male,Boston,Finance,Stock Market & Investments,161123,High School,Real Estate Agent
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+32,Non-Binary,San Francisco,Technology,Gadgets & AI,157798,PhD,Designer
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+55,Female,Boston,Finance,Stock Market & Investments,193226,Master's,Entrepreneur
+20,Female,Los Angeles,Education,Online Courses & Books,62683,Master's,Teacher
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+36,Male,Houston,Health & Fitness,Organic Food & Gym Memberships,85946,Master's,Banker
+60,Male,Miami,Technology,Gadgets & AI,32599,Master's,Teacher
+24,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,186892,Master's,Entrepreneur
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+61,Female,Houston,Finance,Stock Market & Investments,130783,PhD,Entrepreneur
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+36,Female,Los Angeles,Travel,Luxury Hotels & Adventure Trips,189555,Master's,Teacher
+40,Female,New York,Travel,Luxury Hotels & Adventure Trips,34009,PhD,Banker
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+36,Male,Houston,Health & Fitness,Organic Food & Gym Memberships,85946,Master's,Banker
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+43,Male,Chicago,Education,Online Courses & Books,187392,High School,Teacher
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+62,Female,New York,Finance,Stock Market & Investments,89923,PhD,Software Engineer
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+64,Female,San Francisco,Finance,Stock Market & Investments,197894,High School,Entrepreneur
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+23,Female,New York,Technology,Gadgets & AI,61617,PhD,Software Engineer
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+62,Female,San Francisco,Health & Fitness,Organic Food & Gym Memberships,61994,High School,Designer
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+54,Male,Chicago,Education,Online Courses & Books,123921,Master's,Doctor
+64,Female,Houston,Health & Fitness,Organic Food & Gym Memberships,70499,PhD,Real Estate Agent
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+54,Male,New York,Real Estate,Property Investment & Rentals,176014,PhD,Designer
+49,Male,Chicago,Gaming,PC & Console Gaming,172944,High School,Entrepreneur
+60,Non-Binary,Chicago,Gaming,PC & Console Gaming,30239,Master's,Designer
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+60,Male,Miami,Technology,Gadgets & AI,32599,Master's,Teacher
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+36,Male,Houston,Health & Fitness,Organic Food & Gym Memberships,85946,Master's,Banker
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+46,Male,New York,Technology,Gadgets & AI,51064,Bachelor's,Real Estate Agent
+60,Male,Seattle,Technology,Gadgets & AI,117655,Master's,Consultant
+58,Female,New York,Finance,Stock Market & Investments,165159,High School,Banker
+56,Female,Houston,Gaming,PC & Console Gaming,110000,Bachelor's,Teacher
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+41,Non-Binary,Boston,Health & Fitness,Organic Food & Gym Memberships,71431,Master's,Software Engineer
+58,Female,New York,Finance,Stock Market & Investments,62173,Bachelor's,Teacher
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+54,Male,New York,Real Estate,Property Investment & Rentals,176014,PhD,Designer
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+31,Non-Binary,New York,Education,Online Courses & Books,136718,Master's,Software Engineer
+50,Non-Binary,Chicago,Real Estate,Property Investment & Rentals,99768,Master's,Consultant
+57,Non-Binary,New York,Gaming,PC & Console Gaming,82353,PhD,Software Engineer
+62,Female,San Francisco,Health & Fitness,Organic Food & Gym Memberships,61994,High School,Designer
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+23,Female,New York,Technology,Gadgets & AI,61617,PhD,Software Engineer
+51,Non-Binary,Seattle,Finance,Stock Market & Investments,117346,High School,Teacher
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+42,Female,Chicago,Finance,Stock Market & Investments,130348,PhD,Entrepreneur
+36,Non-Binary,Los Angeles,Gaming,PC & Console Gaming,107849,Bachelor's,Real Estate Agent
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+54,Female,Boston,Travel,Luxury Hotels & Adventure Trips,160039,Master's,Consultant
+50,Non-Binary,Miami,Finance,Stock Market & Investments,105666,PhD,Software Engineer
+32,Non-Binary,San Francisco,Technology,Gadgets & AI,157798,PhD,Designer
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+41,Non-Binary,Boston,Health & Fitness,Organic Food & Gym Memberships,71431,Master's,Software Engineer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+50,Non-Binary,Chicago,Real Estate,Property Investment & Rentals,99768,Master's,Consultant
+45,Non-Binary,Boston,Travel,Luxury Hotels & Adventure Trips,47082,Bachelor's,Doctor
+60,Male,Seattle,Technology,Gadgets & AI,117655,Master's,Consultant
+61,Non-Binary,Miami,Real Estate,Property Investment & Rentals,162545,High School,Doctor
+64,Female,San Francisco,Finance,Stock Market & Investments,197894,High School,Entrepreneur
+32,Non-Binary,San Francisco,Technology,Gadgets & AI,157798,PhD,Designer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+60,Non-Binary,New York,Gaming,PC & Console Gaming,177617,Master's,Real Estate Agent
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+59,Non-Binary,Chicago,Health & Fitness,Organic Food & Gym Memberships,86186,PhD,Teacher
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+54,Male,New York,Real Estate,Property Investment & Rentals,176014,PhD,Designer
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+42,Female,Chicago,Finance,Stock Market & Investments,130348,PhD,Entrepreneur
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+24,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,186892,Master's,Entrepreneur
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+54,Male,New York,Real Estate,Property Investment & Rentals,176014,PhD,Designer
+65,Female,New York,Gaming,PC & Console Gaming,32553,PhD,Real Estate Agent
+60,Male,New York,Gaming,PC & Console Gaming,56211,High School,Consultant
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+30,Non-Binary,Houston,Education,Online Courses & Books,112526,Bachelor's,Doctor
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+49,Male,Chicago,Gaming,PC & Console Gaming,172944,High School,Entrepreneur
+65,Non-Binary,San Francisco,Travel,Luxury Hotels & Adventure Trips,99486,Master's,Teacher
+48,Non-Binary,Los Angeles,Real Estate,Property Investment & Rentals,68748,Master's,Real Estate Agent
+62,Female,New York,Finance,Stock Market & Investments,89923,PhD,Software Engineer
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+65,Female,New York,Gaming,PC & Console Gaming,32553,PhD,Real Estate Agent
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+45,Non-Binary,Boston,Travel,Luxury Hotels & Adventure Trips,47082,Bachelor's,Doctor
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+60,Non-Binary,Seattle,Health & Fitness,Organic Food & Gym Memberships,98193,PhD,Consultant
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+61,Female,Houston,Finance,Stock Market & Investments,130783,PhD,Entrepreneur
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+61,Non-Binary,Miami,Real Estate,Property Investment & Rentals,162545,High School,Doctor
+60,Non-Binary,Chicago,Gaming,PC & Console Gaming,30239,Master's,Designer
+23,Female,New York,Real Estate,Property Investment & Rentals,157748,PhD,Real Estate Agent
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+55,Female,Boston,Finance,Stock Market & Investments,193226,Master's,Entrepreneur
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+62,Female,New York,Finance,Stock Market & Investments,89923,PhD,Software Engineer
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+50,Female,Seattle,Real Estate,Property Investment & Rentals,42021,High School,Real Estate Agent
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+42,Male,San Francisco,Gaming,PC & Console Gaming,85270,PhD,Teacher
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+24,Male,New York,Health & Fitness,Organic Food & Gym Memberships,50203,Bachelor's,Teacher
+36,Male,Miami,Health & Fitness,Organic Food & Gym Memberships,70686,PhD,Teacher
+60,Male,Seattle,Technology,Gadgets & AI,117655,Master's,Consultant
+42,Female,Chicago,Finance,Stock Market & Investments,130348,PhD,Entrepreneur
+61,Non-Binary,Boston,Finance,Stock Market & Investments,180884,High School,Software Engineer
+18,Female,New York,Gaming,PC & Console Gaming,57218,Bachelor's,Teacher
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+60,Male,Seattle,Technology,Gadgets & AI,117655,Master's,Consultant
+44,Female,Miami,Travel,Luxury Hotels & Adventure Trips,94627,PhD,Teacher
+29,Non-Binary,Houston,Real Estate,Property Investment & Rentals,68736,Master's,Designer
+45,Male,Seattle,Gaming,PC & Console Gaming,164110,Bachelor's,Teacher
+43,Male,Boston,Music,Concerts & Streaming Services,189724,High School,Banker
+62,Male,Miami,Education,Online Courses & Books,143617,Bachelor's,Real Estate Agent
+64,Female,Houston,Health & Fitness,Organic Food & Gym Memberships,70499,PhD,Real Estate Agent
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+62,Female,San Francisco,Health & Fitness,Organic Food & Gym Memberships,61994,High School,Designer
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+32,Non-Binary,San Francisco,Technology,Gadgets & AI,157798,PhD,Designer
+42,Non-Binary,Miami,Gaming,PC & Console Gaming,36912,PhD,Designer
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+56,Female,San Francisco,Travel,Luxury Hotels & Adventure Trips,121339,Master's,Teacher
+62,Non-Binary,San Francisco,Music,Concerts & Streaming Services,85283,PhD,Real Estate Agent
+43,Male,Boston,Music,Concerts & Streaming Services,189724,High School,Banker
+33,Non-Binary,San Francisco,Health & Fitness,Organic Food & Gym Memberships,116369,PhD,Designer
+58,Male,Boston,Technology,Gadgets & AI,40261,High School,Real Estate Agent
+48,Non-Binary,Boston,Technology,Gadgets & AI,118757,Bachelor's,Doctor
+64,Male,Houston,Music,Concerts & Streaming Services,55629,Master's,Real Estate Agent
+62,Female,Boston,Technology,Gadgets & AI,37536,Master's,Software Engineer
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+60,Male,Chicago,Travel,Luxury Hotels & Adventure Trips,68435,PhD,Software Engineer
+22,Female,Boston,Finance,Stock Market & Investments,36056,PhD,Software Engineer
+19,Male,Chicago,Gaming,PC & Console Gaming,109965,PhD,Teacher
+60,Female,Seattle,Gaming,PC & Console Gaming,169486,Bachelor's,Consultant
+44,Female,Houston,Travel,Luxury Hotels & Adventure Trips,176154,Bachelor's,Doctor
+55,Non-Binary,San Francisco,Education,Online Courses & Books,191014,High School,Consultant
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+60,Male,Miami,Technology,Gadgets & AI,32599,Master's,Teacher
+62,Non-Binary,New York,Travel,Luxury Hotels & Adventure Trips,154517,Master's,Consultant
+39,Non-Binary,Houston,Education,Online Courses & Books,96251,Bachelor's,Consultant
+57,Male,Houston,Technology,Gadgets & AI,156470,PhD,Designer
+30,Female,Chicago,Music,Concerts & Streaming Services,61888,Bachelor's,Real Estate Agent
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+54,Male,New York,Real Estate,Property Investment & Rentals,176014,PhD,Designer
+62,Male,Los Angeles,Health & Fitness,Organic Food & Gym Memberships,100587,Master's,Real Estate Agent
+23,Female,Chicago,Education,Online Courses & Books,151377,PhD,Real Estate Agent
+20,Non-Binary,New York,Gaming,PC & Console Gaming,81548,PhD,Doctor
+43,Male,Chicago,Education,Online Courses & Books,187392,High School,Teacher
+31,Non-Binary,Miami,Gaming,PC & Console Gaming,64662,PhD,Software Engineer
+51,Male,New York,Real Estate,Property Investment & Rentals,125055,High School,Designer
+61,Non-Binary,Miami,Real Estate,Property Investment & Rentals,162545,High School,Doctor
